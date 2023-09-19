@@ -1,8 +1,8 @@
-# Template
+## Template
 
-## This is a python project template
+### This is a python project template
 
-### Structure
+#### Structure
 
 ```
 ├───data
